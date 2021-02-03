@@ -16,13 +16,13 @@ PUT-update an existing instance
 
 6) Complete the table below. It refers to actions on the wines resource.
 
-| Action                   | Nickname | Route       | HTTP Verb |
-|--------------------------|----------|-------------|-----------|
+| Action                  | Nickname | Route   | HTTP Verb |
+|-------------------------|----------|---------|-----------|
 | See all available wines | Index  | /wines    | GET    |
-| See 1 specific  wine    | Show   | /wine/:id | GET    |
-| Create a new wine       | Create | /wine     | POST   |
-| Update an existing wine | Update | /wine/:id | PUT    |
-| Delete an existing wine | Delete | /wine/:id | DELETE |
+| See 1 specific  wine    | Show   | /wines/:id | GET    |
+| Create a new wine       | Create | /wine s    | POST   |
+| Update an existing wine | Update | /wines/:id | PUT    |
+| Delete an existing wine | Delete | /wines/:id | DELETE |
 
 
 7) Complete this table about actions on the pets resource.
