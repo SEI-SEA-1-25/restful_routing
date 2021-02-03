@@ -32,5 +32,5 @@ PUT-update an existing instance
 | See all available pets  | Index    | /pets     | GET       |
 | See 1 specific pet      | Show     | /pets/:id | GET       |
 | Create a new pet        | Create   | /pets     | POST      |
-| Update an existing pet  | Update   | /pet/:id  | PUT       |
-| Delete an existing pet  | Delete   | /pet/:id  | DELETE    |
+| Update an existing pet  | Update   | /pets/:id  | PUT       |
+| Delete an existing pet  | Delete   | /pets/:id  | DELETE    |
